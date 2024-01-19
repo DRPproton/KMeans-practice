@@ -6,12 +6,14 @@ This repository contains a Jupyter notebook (`Ejercicio_KMeans_Dashel.ipynb`) th
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook
-- Libraries: numpy, pandas, matplotlib, scikit-learn, yellowbrick
+- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, yellowbrick
 
 ## Installation
 To set up your environment to run the notebook, follow these steps:
 1. Clone the repository: `git clone https://github.com/DRPproton/KMeans-practice.git`
 2. Install the required Python packages: `pipenv install`
+3. To run the virtual enviroment: `pipenv shell`
+4. To run jupyter notebook: `jupyter notebook`
 
 ## Usage
 Open the notebook in Jupyter Lab or Jupyter Notebook and run the cells sequentially to see the KMeans clustering in action.
